@@ -1,0 +1,1 @@
+cargo build --example test -p thanks_async_lambda
